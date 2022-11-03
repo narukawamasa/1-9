@@ -3,6 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
-.script {
+.position {
+ position: absolute;
+  left: 40px;
+  top: 100px;
+}
+i {
   font-size: 32px;
+
 }
